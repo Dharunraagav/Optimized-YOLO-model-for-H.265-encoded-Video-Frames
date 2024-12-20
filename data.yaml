@@ -1,0 +1,12 @@
+train: /media/dharun/New Volume1/yolov9/yolov9_nit/yolov9_clone/Custom Dataset After Augmentation/train/images
+val: /media/dharun/New Volume1/yolov9/yolov9_nit/yolov9_clone/Custom Dataset After Augmentation/valid/images
+test: /media/dharun/New Volume1/yolov9/yolov9_nit/yolov9_clone/Custom Dataset After Augmentation/test/images
+
+nc: 5
+
+names: 
+  0: Asian-Lady-beetle
+  1: Ladybug
+  2: Mealy-bug
+  3: Pyrilla-perpusilla
+  4: Stink bug
