@@ -1,0 +1,12 @@
+names:
+- car
+nc: 1
+roboflow:
+  license: CC BY 4.0
+  project: car-detection-2-veqhn
+  url: https://universe.roboflow.com/fyp1-dccsw/car-detection-2-veqhn/dataset/1
+  version: 1
+  workspace: fyp1-dccsw
+test: /content/gdrive/MyDrive/yolov7/car-detection-2-1/test/images
+train: /content/gdrive/MyDrive/yolov7/car-detection-2-1/train/images
+val: /content/gdrive/MyDrive/yolov7/car-detection-2-1/valid/images
